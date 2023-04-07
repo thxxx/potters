@@ -1,15 +1,17 @@
 # Do you Want to talk with me?
+<img src="https://cdn.britannica.com/81/152981-050-7891A7CF/Daniel-Radcliffe-Harry-Potter-and-the-Philosophers.jpg" width="500" height="280"/>
 
-## Training codes for model is in training_codes folder.
+
+# 배포 주소
 
 
-## demo is made by using flask. trained model is not here
+# 프로젝트 소개
+
 
 
 ### About Us
-Deep Daiv. '23 Winter
+Deep Daiv. '23 Winter(2023.01~2023.04)
 NLG(Natural Language Generation) Team
-2023.01~2023.04
 
 @sml09181
 @thxxx
