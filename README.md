@@ -17,7 +17,7 @@ Deep Daiv. '23 Winter NLG(Natural Language Generation) Team<br>
 <img src="https://cdn.openai.com/instruction-following/draft-20220126f/methods.svg">
 
 ### 1.3.2 Harry Potter처럼 대답하는 능력
-
+![inference](https://user-images.githubusercontent.com/105408672/230614841-23b5db21-de68-4091-be85-49f6f09dc0af.png)
 
 ## 1.4 What Problems We Solved?
 
