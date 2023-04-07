@@ -15,8 +15,12 @@ Deep Daiv. '23 Winter NLG(Natural Language Generation) Team<br>
 ## 1.3 Overview
 ### 1.3.1 대화 능력
 ### 1.3.2 Harry Potter처럼 대답하는 능력
-<img src="www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa0be7867-d053-48cc-a2f8-d3c43f69a360%2FUntitled.png?id=3c657148-7449-4090-b9eb-ed3a008a19fa&table=block&spaceId=a21ec021-5399-43b4-839c-6d528586f469&width=1790&userId=21e67679-f46a-4bf5-928b-547789b39343&cache=v2" width="500" height="350"/>
-## 1.4 About Us
+
+## 1.4 What Problems We Solved?
+
+## 1.5 What We Learned through This Project?
+
+## 1.6 About Us
 Hojin Kim @thxxx - Team Leader<br>
 Sujin Kim @sml09181<br>
 Subin Shin @2020147508<br>
