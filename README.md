@@ -14,19 +14,22 @@ Deep Daiv. '23 Winter NLG(Natural Language Generation) Team<br>
 
 ## 1.3 Overview
 ### 1.3.1 대화 능력
+<img src="https://cdn.openai.com/instruction-following/draft-20220126f/methods.svg">
+
 ### 1.3.2 Harry Potter처럼 대답하는 능력
+
 
 ## 1.4 What Problems We Solved?
 
 ## 1.5 What We Learned through This Project?
 
 ## 1.6 About Us
-Hojin Kim @thxxx - Team Leader<br>
-Sujin Kim @sml09181<br>
-Subin Shin @2020147508<br>
+Hojin Kim([github](https://github.com/thxxx))- Team Leader<br>
+Sujin Kim([github](https://github.com/sml09181))<br>
+Subin Shin([github](https://github.com/2020147508))<br>
 
 # 2. How to Start
-(1) git clone 
+(1) git clone https://github.com/thxxx/potters.git
 
 (2) 
 
