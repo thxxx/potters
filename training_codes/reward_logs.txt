@@ -1,0 +1,1206 @@
+accuracy : 0.5152743142144637, loss : 0.10137051343917847, index : 400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5199667221297835, loss : 0.05973086506128311, index : 600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5235642946317094, loss : 0.08418793976306915, index : 800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5259740259740242, loss : 0.07168354094028473, index : 1000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5315362198168175, loss : 0.1389445960521698, index : 1200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5366702355460377, loss : 0.028722938150167465, index : 1400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5395065584009981, loss : 0.05066199228167534, index : 1600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5419905607995539, loss : 0.06924425065517426, index : 1800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.545039980009993, loss : 0.11095619201660156, index : 2000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5477055883689212, loss : 0.03442104905843735, index : 2200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5485735110370661, loss : 0.04433410242199898, index : 2400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5488273740868876, loss : 0.052852410823106766, index : 2600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5501160299892883, loss : 0.0365743525326252, index : 2800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5530239920026653, loss : 0.035176802426576614, index : 3000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5552952202436724, loss : 0.0683569386601448, index : 3200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.557299323728313, loss : 0.06325552612543106, index : 3400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5589072479866679, loss : 0.16786113381385803, index : 3600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5605432780847122, loss : 0.07875362038612366, index : 3800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.561578355411145, loss : 0.0024987144861370325, index : 4000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5638240895024973, loss : 0.014653587713837624, index : 4200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5651272438082238, loss : 0.011680296622216702, index : 4400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5676483373179719, loss : 0.0014950425829738379, index : 4600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5699854197042266, loss : 0.0014963092980906367, index : 4800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5708608278344313, loss : 0.0010155078489333391, index : 5000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5713324360699847, loss : 0.016812266781926155, index : 5200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5724402888353997, loss : 0.06103917583823204, index : 5400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.573089626852347, loss : 0.06734049320220947, index : 5600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5746853990691247, loss : 0.03389143943786621, index : 5800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.575320779870021, loss : 0.03272232785820961, index : 6000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5759353330108048, loss : 0.15961697697639465, index : 6200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5763162005936591, loss : 0.04602671414613724, index : 6400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5763331313437375, loss : 0.1651967614889145, index : 6600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.577139391265993, loss : 0.01183152012526989, index : 6800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5774175117840342, loss : 0.2059234380722046, index : 7000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5782530204138352, loss : 0.06908930838108063, index : 7200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5790602621267433, loss : 0.029039708897471428, index : 7400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.579775687409555, loss : 0.030889594927430153, index : 7600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5811754903217571, loss : 0.07829530537128448, index : 7800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5816929133858302, loss : 0.3489215672016144, index : 8000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5818040482867977, loss : 0.047613758593797684, index : 8200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5828919176288571, loss : 0.03463191166520119, index : 8400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5834641320776685, loss : 0.0033964940812438726, index : 8600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5834422224747221, loss : 0.202964186668396, index : 8800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5841712031996485, loss : 0.06760621815919876, index : 9000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5852624714704961, loss : 0.13485662639141083, index : 9200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5860147856611038, loss : 0.012728028930723667, index : 9400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5864883866263959, loss : 0.001706317183561623, index : 9600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5871849811243786, loss : 0.09600339084863663, index : 9800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5881411858814154, loss : 0.0060152318328619, index : 10000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5885207332614488, loss : 0.10095474869012833, index : 10200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5891380636477301, loss : 0.21752524375915527, index : 10400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5896259786812608, loss : 0.03326408565044403, index : 10600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5903041385056988, loss : 0.02833743207156658, index : 10800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5907076629397384, loss : 0.1743079274892807, index : 11000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5914538880457171, loss : 0.09520227462053299, index : 11200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.625, loss : 0.03191932663321495, index : 0, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6281094527363185, loss : 0.0007271867361851037, index : 200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6405860349127185, loss : 0.01663414016366005, index : 400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6505823627287856, loss : 0.0029798790346831083, index : 600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6484082397003749, loss : 0.0005927483434788883, index : 800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6520979020979023, loss : 0.0003649625286925584, index : 1000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6498751040799334, loss : 0.0034913010895252228, index : 1200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6480192719486084, loss : 0.00844004936516285, index : 1400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6492816989381638, loss : 0.0010482390644028783, index : 1600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6503331482509718, loss : 0.03566274791955948, index : 1800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6490504747626188, loss : 0.000698382908012718, index : 2000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.648341662880509, loss : 0.00034225606941618025, index : 2200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6487401082882126, loss : 0.013207094743847847, index : 2400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6472991157247204, loss : 0.017608460038900375, index : 2600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6464655480185643, loss : 0.007515554782003164, index : 2800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6447850716427853, loss : 0.05073489993810654, index : 3000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.645032802249297, loss : 0.0997169017791748, index : 3200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6445530726256983, loss : 0.046508703380823135, index : 3400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6450291585670647, loss : 8.006722782738507e-05, index : 3600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6449947382267824, loss : 0.00019106708350591362, index : 3800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6451824543864034, loss : 0.028289616107940674, index : 4000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6456498452749345, loss : 0.12792843580245972, index : 4200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6452510793001592, loss : 0.0040352544747292995, index : 4400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6451043251467077, loss : 0.04182898998260498, index : 4600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6445271818371168, loss : 0.0012416087556630373, index : 4800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6435462907418509, loss : 0.003303212346509099, index : 5000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6444433762737927, loss : 0.17487339675426483, index : 5200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6441168302166262, loss : 0.0038117754738777876, index : 5400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6443045884663442, loss : 0.012093587778508663, index : 5600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6445009481123934, loss : 0.0012932481477037072, index : 5800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6444967505415748, loss : 0.07297845929861069, index : 6000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6443114013868718, loss : 0.0004890952841378748, index : 6200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6445477269176674, loss : 0.003447093768045306, index : 6400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6439554612937417, loss : 0.0011595007963478565, index : 6600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6441148360535199, loss : 0.15006932616233826, index : 6800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6438008855877716, loss : 0.34297439455986023, index : 7000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6435738091931661, loss : 0.00017926278815139085, index : 7200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6433927847588149, loss : 0.12047705054283142, index : 7400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6432048414682264, loss : 0.08561905473470688, index : 7600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6430265350596064, loss : 0.0008752218564040959, index : 7800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6432945881764766, loss : 0.038531482219696045, index : 8000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6434428728203865, loss : 0.023011712357401848, index : 8200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6435097012260433, loss : 0.00045508932089433074, index : 8400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6437623532147412, loss : 0.33374857902526855, index : 8600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6436910578343353, loss : 0.024894706904888153, index : 8800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6438173536273736, loss : 0.004735296126455069, index : 9000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6438566460167356, loss : 0.00023709356901235878, index : 9200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6436017444952655, loss : 0.01657957024872303, index : 9400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6439042808040818, loss : 0.07638416439294815, index : 9600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.644117947148249, loss : 0.005753044970333576, index : 9800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6444855514448541, loss : 0.00816159788519144, index : 10000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6447529653955484, loss : 0.031144551932811737, index : 10200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6446976252283425, loss : 0.0518718920648098, index : 10400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6446207904914623, loss : 0.12052187323570251, index : 10600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6446046662346064, loss : 0.0003043912583962083, index : 10800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6445323152440673, loss : 0.00020656657579820603, index : 11000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6444737077046682, loss : 0.06832922250032425, index : 11200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.625, loss : 0.0009439000859856606, index : 0, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6834577114427862, loss : 0.16539537906646729, index : 200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.68640897755611, loss : 0.396926611661911, index : 400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6853161397670555, loss : 0.0007659369730390608, index : 600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6838327091136079, loss : 0.009585721418261528, index : 800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6826923076923077, loss : 0.004000670276582241, index : 1000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6843255620316397, loss : 6.45088657620363e-05, index : 1200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6823697359029255, loss : 0.01574775017797947, index : 1400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6805902560899426, loss : 0.03516753390431404, index : 1600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6793448084397546, loss : 0.013151276856660843, index : 1800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.680159920039979, loss : 0.01603335328400135, index : 2000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6811108587005901, loss : 0.0006407127948477864, index : 2200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6793002915451889, loss : 0.0006275780033320189, index : 2400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6790176855055737, loss : 0.2498387098312378, index : 2600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6796233488039972, loss : 3.011142325703986e-05, index : 2800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6786904365211586, loss : 0.000377935211872682, index : 3000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6803342705404556, loss : 0.0008995112148113549, index : 3200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6798368127021459, loss : 0.0005493296193890274, index : 3400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.680713690641488, loss : 0.00040188146522268653, index : 3600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6803143909497495, loss : 0.0006368710892274976, index : 3800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.68045488627843, loss : 0.0007871310226619244, index : 4000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6801951916210422, loss : 0.0017137647373601794, index : 4200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6806975687343781, loss : 2.756745288934326e-06, index : 4400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6801510541186694, loss : 0.012967600487172604, index : 4600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6792334930222864, loss : 0.0006339280516840518, index : 4800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6785392921415714, loss : 4.824436837225221e-05, index : 5000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.678691597769659, loss : 0.0236948374658823, index : 5200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6784623217922597, loss : 0.003299991600215435, index : 5400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6799009105516856, loss : 0.0002493885695002973, index : 5600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.679473366660918, loss : 0.13546207547187805, index : 5800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6792409598400238, loss : 0.03559364378452301, index : 6000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6792654410578912, loss : 0.0005773505545221269, index : 6200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6793079206373979, loss : 0.02539794333279133, index : 6400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6791395243144953, loss : 0.016559580340981483, index : 6600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.679201588001762, loss : 0.00041905921534635127, index : 6800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6789030138551612, loss : 0.001612114137969911, index : 7000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6788293292598228, loss : 0.005554100964218378, index : 7200, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6792156465342499, loss : 8.163286111084744e-05, index : 7400, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6791376134719095, loss : 8.791715799816302e-07, index : 7600, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6789353928983443, loss : 0.000388345739338547, index : 7800, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6787120359954986, loss : 0.003393699647858739, index : 8000, learning_rate : 5.657e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.375, loss : 0.10901954025030136, index : 0, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5242537313432837, loss : 0.10451866686344147, index : 200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5249376558603488, loss : 0.1502160280942917, index : 400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5274542429284518, loss : 0.09989457577466965, index : 600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5299625468164783, loss : 0.03791240602731705, index : 800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5314685314685306, loss : 0.05987667292356491, index : 1000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5346586178184833, loss : 0.06279020011425018, index : 1200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5371163454675222, loss : 0.08299871534109116, index : 1400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5414584634603357, loss : 0.024246875196695328, index : 1600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5427540255413649, loss : 0.08143516629934311, index : 1800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5479135432283851, loss : 0.0413329042494297, index : 2000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5529872785097677, loss : 0.05448384955525398, index : 2200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.556330695543523, loss : 0.05925754830241203, index : 2400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5590638216070737, loss : 0.03551506996154785, index : 2600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5621206711888604, loss : 0.020526129752397537, index : 2800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5644368543818727, loss : 0.07002556324005127, index : 3000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5688456732271177, loss : 0.025531264021992683, index : 3200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5697221405468995, loss : 0.01721419207751751, index : 3400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5705706748125531, loss : 0.051407650113105774, index : 3600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5727111286503561, loss : 0.33152252435684204, index : 3800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5739190202449397, loss : 0.008527434431016445, index : 4000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5753392049512029, loss : 0.06349320709705353, index : 4200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5763746875710072, loss : 0.0792597085237503, index : 4400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5772658117800483, loss : 0.05029009282588959, index : 4600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5775619662570306, loss : 0.009573382325470448, index : 4800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5784843031393729, loss : 0.015457089059054852, index : 5000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5792395693135943, loss : 0.07396535575389862, index : 5200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.580772079244585, loss : 0.01938788779079914, index : 5400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5819942867345117, loss : 0.002242374699562788, index : 5600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5824857783140841, loss : 0.15474608540534973, index : 5800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5835902349608398, loss : 0.09223547577857971, index : 6000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5842001290114504, loss : 0.02130942977964878, index : 6200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5846937978440875, loss : 0.004549746867269278, index : 6400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.585024996212695, loss : 0.016365861520171165, index : 6600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5856675488898695, loss : 0.11675302684307098, index : 6800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.586559062991001, loss : 0.010604252107441425, index : 7000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5873142619080681, loss : 0.07252054661512375, index : 7200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5879610863396836, loss : 0.1317790299654007, index : 7400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5884094198131823, loss : 0.10283465683460236, index : 7600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5893154723753362, loss : 0.032460860908031464, index : 7800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5904886889138855, loss : 0.0031842412427067757, index : 8000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.591101694915254, loss : 0.018449869006872177, index : 8200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5915218426377808, loss : 0.019800446927547455, index : 8400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5920677828159507, loss : 0.010850364342331886, index : 8600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5926883308714913, loss : 0.017117856070399284, index : 8800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5930452171980883, loss : 0.006404660176485777, index : 9000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5935903706118895, loss : 0.007875058799982071, index : 9200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5940591426443996, loss : 0.04457961395382881, index : 9400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.594417248203312, loss : 0.00326292566023767, index : 9600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5949137843077232, loss : 0.006296804640442133, index : 9800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5953654634536543, loss : 0.07316141575574875, index : 10000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5955175963140864, loss : 0.003949930425733328, index : 10200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5957359869243333, loss : 0.01448505837470293, index : 10400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5958282237524746, loss : 0.011738643981516361, index : 10600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5959864827330786, loss : 0.05504409596323967, index : 10800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5963094264157791, loss : 0.01845163106918335, index : 11000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5966877957325222, loss : 0.024368850514292717, index : 11200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5, loss : 0.14754928648471832, index : 0, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6424129353233836, loss : 0.0006471608649007976, index : 200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6384039900249382, loss : 0.01630719006061554, index : 400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6372712146422633, loss : 2.2510230337502435e-05, index : 600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6349875156054929, loss : 0.15382930636405945, index : 800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6403596403596402, loss : 0.020149534568190575, index : 1000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6432139883430472, loss : 0.05864635854959488, index : 1200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6418629550321195, loss : 8.521898416802287e-05, index : 1400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.642645221736413, loss : 0.03966420888900757, index : 1600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.625, loss : 0.123296819627285, index : 0, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5323383084577107, loss : 0.038367100059986115, index : 200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5395885286783039, loss : 0.04917418211698532, index : 400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5372296173044917, loss : 0.0457041896879673, index : 600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5461922596754059, loss : 0.04858142137527466, index : 800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5528221778221777, loss : 0.0449846051633358, index : 1000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5562031640299748, loss : 0.09929604083299637, index : 1200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5579942897930057, loss : 0.036267321556806564, index : 1400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.562695190505934, loss : 0.027806619182229042, index : 1600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5639228206551922, loss : 0.056657835841178894, index : 1800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5650299850074968, loss : 0.02810569666326046, index : 2000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5680372557928215, loss : 0.006305948831140995, index : 2200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5707517700957936, loss : 0.24899615347385406, index : 2400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5723760092272194, loss : 0.03133121132850647, index : 2600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5732774009282386, loss : 0.03014633245766163, index : 2800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5744335221592799, loss : 0.0006785148289054632, index : 3000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5755232739768823, loss : 0.058538131415843964, index : 3200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5753087327256701, loss : 0.042795050889253616, index : 3400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5766453762843663, loss : 0.009465892799198627, index : 3600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5783017626940288, loss : 0.04800689220428467, index : 3800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5787303174206456, loss : 0.01671183668076992, index : 4000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5804272792192345, loss : 0.11287405341863632, index : 4200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5817711883662814, loss : 0.005249770358204842, index : 4400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5823462290806359, loss : 0.10839082300662994, index : 4600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5831597583836711, loss : 0.028031721711158752, index : 4800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5836332733453328, loss : 0.03796128183603287, index : 5000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5846712170736413, loss : 0.0367003008723259, index : 5200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5848916867246824, loss : 0.10426671802997589, index : 5400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5851633636850584, loss : 0.024177424609661102, index : 5600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5854378555421506, loss : 0.4311629831790924, index : 5800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5858606898850214, loss : 0.038587115705013275, index : 6000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.586175616835997, loss : 0.012049988843500614, index : 6200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.586880956100612, loss : 0.1730857938528061, index : 6400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5876950462051236, loss : 0.10525748878717422, index : 6600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5886634318482595, loss : 0.004073489457368851, index : 6800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5892908155977731, loss : 0.04720247536897659, index : 7000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5899354256353296, loss : 0.10731247812509537, index : 7200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5904438589379826, loss : 0.065354123711586, index : 7400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5910735429548756, loss : 0.2701978385448456, index : 7600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5916068452762479, loss : 0.05857381597161293, index : 7800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5915041869766291, loss : 0.012346714735031128, index : 8000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5921381538836739, loss : 0.020694982260465622, index : 8200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5926080228544227, loss : 0.0012255364563316107, index : 8400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5922276479479139, loss : 0.03910570219159126, index : 8600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.592532098625157, loss : 0.08739803731441498, index : 8800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5930452171980897, loss : 0.09102532267570496, index : 9000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5935224432126951, loss : 0.08553293347358704, index : 9200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5942187001382836, loss : 0.022373709827661514, index : 9400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5944953650661394, loss : 0.0005398035864345729, index : 9600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5951943679216412, loss : 0.0021476836409419775, index : 9800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5955529447055292, loss : 0.0825570598244667, index : 10000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5960690128418786, loss : 0.02480887621641159, index : 10200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5965892702624753, loss : 0.0048394110053777695, index : 10400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5969484010942369, loss : 0.0817551538348198, index : 10600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5972826590130549, loss : 0.06262712925672531, index : 10800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5980819925461327, loss : 0.047933030873537064, index : 11000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5981831979287577, loss : 0.0014446614077314734, index : 11200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5, loss : 0.1945505291223526, index : 0, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6753731343283579, loss : 0.01626262441277504, index : 200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6586658354114711, loss : 0.006150397472083569, index : 400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6539101497504158, loss : 0.0005121725844219327, index : 600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6510611735330828, loss : 0.2917517125606537, index : 800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6504745254745248, loss : 0.0016190125606954098, index : 1000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6536219816819321, loss : 0.0015535156708210707, index : 1200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6547109207708792, loss : 0.005217419471591711, index : 1400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6536539662710823, loss : 0.012506882660090923, index : 1600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6545669072737383, loss : 0.014629027806222439, index : 1800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6539855072463782, loss : 0.0020619563292711973, index : 2000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6520899591094965, loss : 0.008250443264842033, index : 2200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6501978342357361, loss : 0.07763085514307022, index : 2400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6495098039215689, loss : 0.020150242373347282, index : 2600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6491431631560164, loss : 0.002914565149694681, index : 2800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6484505164945016, loss : 0.05979878827929497, index : 3000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6489378319275226, loss : 1.4633797036367469e-05, index : 3200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6492208174066451, loss : 0.05392759293317795, index : 3400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6496459316856429, loss : 0.15642301738262177, index : 3600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6496974480399895, loss : 0.0002948615001514554, index : 3800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6495563609097725, loss : 0.00785425491631031, index : 4000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.649428707450607, loss : 0.0013636177172884345, index : 4200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6494830720290846, loss : 0.0008296949090436101, index : 4400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6502119104542496, loss : 0.012969163246452808, index : 4600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6499687565090606, loss : 0.017077919095754623, index : 4800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6508448310337923, loss : 4.618722960003652e-05, index : 5000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6509325129782728, loss : 0.005736428778618574, index : 5200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6510368450286974, loss : 0.0003629599523264915, index : 5400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6503526156043554, loss : 0.13976484537124634, index : 5600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6506636786760889, loss : 6.0185375332366675e-05, index : 5800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6507248791868006, loss : 0.03705506771802902, index : 6000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.650479761328817, loss : 0.0003930841921828687, index : 6200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6511287298859545, loss : 0.1099715605378151, index : 6400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.875, loss : 0.0006838935660198331, index : 0, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.662313432835821, loss : 0.05472930148243904, index : 200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6652119700748134, loss : 0.00012016109394608065, index : 400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6672212978369392, loss : 0.013715471141040325, index : 600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.665262172284645, loss : 0.07473008334636688, index : 800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6674575424575432, loss : 0.02711087465286255, index : 1000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.66736053288926, loss : 9.656325346441008e-06, index : 1200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6645253390435412, loss : 0.16101187467575073, index : 1400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6633354153653973, loss : 0.00298403762280941, index : 1600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6616463076068857, loss : 0.018392957746982574, index : 1800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6619190404797607, loss : 0.0006198355695232749, index : 2000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6624261699227629, loss : 0.0027768253348767757, index : 2200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6639941690962106, loss : 0.0014890331076458097, index : 2400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6642156862745097, loss : 0.0014995065284892917, index : 2600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6644948232774011, loss : 0.003939026966691017, index : 2800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6647784071976005, loss : 0.032815221697092056, index : 3000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6638159950015616, loss : 0.2076173722743988, index : 3200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6634813290208759, loss : 0.034824494272470474, index : 3400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6629408497639541, loss : 0.041935067623853683, index : 3600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6622599315969478, loss : 0.012472276575863361, index : 3800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6633029242689324, loss : 0.027866747230291367, index : 4000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6632349440609375, loss : 0.10612735152244568, index : 4200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.662889116109974, loss : 0.09592131525278091, index : 4400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6633883938274283, loss : 0.002911880612373352, index : 4600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6632212039158506, loss : 0.009269244968891144, index : 4800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6629924015196963, loss : 0.0032583067659288645, index : 5000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6625408575273988, loss : 0.011881555430591106, index : 5200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6625162007035729, loss : 0.0010489077540114522, index : 5400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6624486698803779, loss : 0.13871614634990692, index : 5600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.66238579555249, loss : 0.03903740271925926, index : 5800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6625145809031817, loss : 0.010324900038540363, index : 6000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6618892114175116, loss : 0.032855596393346786, index : 6200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.661576316200592, loss : 5.9499594499357045e-05, index : 6400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6612445084078153, loss : 0.015374683775007725, index : 6600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6614100867519467, loss : 0.3328229784965515, index : 6800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6606377660334223, loss : 5.2947587391827255e-05, index : 7000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6604638244688222, loss : 0.00013222085544839501, index : 7200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6608566409944587, loss : 0.00015904437168501318, index : 7400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6610314432311524, loss : 0.01190243475139141, index : 7600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6609409050121765, loss : 1.192093463942001e-07, index : 7800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6611986001749768, loss : 0.010302373208105564, index : 8000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6615656627240567, loss : 0.10436956584453583, index : 8200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6614837519342921, loss : 0.14661936461925507, index : 8400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.661274851761422, loss : 0.010328824631869793, index : 8600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6621974775593672, loss : 0.002499793656170368, index : 8800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6621486501499824, loss : 0.015340606682002544, index : 9000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6620068470818385, loss : 0.07457748055458069, index : 9200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6621237102435904, loss : 0.0025725115556269884, index : 9400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6620664514113107, loss : 1.8538419681135565e-05, index : 9600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.661590654014895, loss : 0.029269181191921234, index : 9800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6613463653634627, loss : 4.9563637730898336e-05, index : 10000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6609768650132339, loss : 0.004007347859442234, index : 10200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6608499182770886, loss : 7.973919127834961e-05, index : 10400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6610107537024811, loss : 1.4901162970204496e-08, index : 10600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6605985556892878, loss : 0.008586634881794453, index : 10800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6602922461594405, loss : 0.004351450130343437, index : 11000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6603093473796982, loss : 0.01933792233467102, index : 11200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.875, loss : 0.005083816591650248, index : 0, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.704601990049751, loss : 0.002887380076572299, index : 200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7010598503740649, loss : 0.016918238252401352, index : 400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6994592346089851, loss : 2.985804167110473e-05, index : 600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7033395755305865, loss : 0.0005975544336251915, index : 800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7064185814185812, loss : 4.321411324781366e-06, index : 1000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7078476269775186, loss : 0.0036410759203135967, index : 1200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.709493219129193, loss : 0.012320063076913357, index : 1400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7084634603372886, loss : 2.861055691028014e-06, index : 1600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7081482509716819, loss : 0.0002538828703109175, index : 1800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.707083958020989, loss : 0.00012869304919149727, index : 2000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7065538391640159, loss : 0.0014314192812889814, index : 2200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7067367763431904, loss : 0.0276698749512434, index : 2400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7052095347943104, loss : 3.278259725902899e-07, index : 2600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7052392002856122, loss : 1.8925908079836518e-05, index : 2800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7048067310896368, loss : 1.664570481807459e-05, index : 3000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7035301468291159, loss : 8.234858250943944e-05, index : 3200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7047192002352249, loss : 0.0006746569415554404, index : 3400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7041793946126076, loss : 0.0065356711857020855, index : 3600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7037292817679558, loss : 0.0004333159886300564, index : 3800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7033554111472132, loss : 0.0012398780090734363, index : 4000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7030171387764816, loss : 0.0011658102739602327, index : 4200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7035332878891164, loss : 0.264070063829422, index : 4400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7033525320582481, loss : 0.003233852796256542, index : 4600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7034732347427618, loss : 0.0018272007582709193, index : 4800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7028344331133773, loss : 0.007979282177984715, index : 5000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7017640838300316, loss : 0.0015854599187150598, index : 5200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7018607665247167, loss : 0.0013864199863746762, index : 5400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7018389573290479, loss : 0.0009464449831284583, index : 5600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7012153077055675, loss : 0.0021538082510232925, index : 5800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7006540576570562, loss : 0.00130773289129138, index : 6000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7003305918400249, loss : 8.651627285871655e-05, index : 6200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.699539134510232, loss : 0.000609233567956835, index : 6400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6990228753219201, loss : 0.04439561069011688, index : 6600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6993273048081157, loss : 0.0012818059185519814, index : 6800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6995250678474496, loss : 0.008526700548827648, index : 7000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6991216497708644, loss : 0.0006573916180059314, index : 7200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6991960545872172, loss : 0.007941707968711853, index : 7400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6991349822391784, loss : 0.002095781033858657, index : 7600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6986764517369561, loss : 0.0199141725897789, index : 7800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6982877140357449, loss : 0.18673034012317657, index : 8000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6985733447140586, loss : 0.1466076374053955, index : 8200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6982799666706337, loss : 0.0007132785394787788, index : 8400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6983926287640967, loss : 0.0003948406083509326, index : 8600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6977900238609248, loss : 0.033639270812273026, index : 8800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6972975224975003, loss : 0.02413763478398323, index : 9000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6971932398652316, loss : 0.008807830512523651, index : 9200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.697292841187108, loss : 8.058910316321999e-05, index : 9400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6972841370690555, loss : 0.008942547254264355, index : 9600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6971354963779198, loss : 0.004730289801955223, index : 9800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6967803219678027, loss : 0.0036541474983096123, index : 10000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6968189393196739, loss : 0.0022617951035499573, index : 10200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6966637823286206, loss : 4.874375008512288e-05, index : 10400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6964908970851797, loss : 0.2083074003458023, index : 10600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6964517174335699, loss : 0.011316685937345028, index : 10800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6962662485228601, loss : 0.0021926849149167538, index : 11000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.6962882778323349, loss : 0.00033923779847100377, index : 11200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.75, loss : 7.787536742398515e-05, index : 0, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7419154228855724, loss : 0.046149834990501404, index : 200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7415835411471324, loss : 5.336499816621654e-05, index : 400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7368968386023296, loss : 0.00019502198847476393, index : 600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7292446941323348, loss : 0.0004357981961220503, index : 800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7288961038961042, loss : 1.4901162970204496e-08, index : 1000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7283513738551212, loss : 0.00021168623061385006, index : 1200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7278729478943627, loss : 0.00012772348418366164, index : 1400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7252498438475967, loss : 9.44769362831721e-06, index : 1600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7275124930594127, loss : 8.029088348848745e-05, index : 1800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7276986506746638, loss : 0.000621250772383064, index : 2000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7285324852339853, loss : 2.01167290470039e-06, index : 2200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7278738025822579, loss : 1.2532505024864804e-05, index : 2400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7282295271049598, loss : 1.788140622238643e-07, index : 2600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7285344519814357, loss : 1.0624979040585458e-05, index : 2800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7277157614128629, loss : 0.008807551115751266, index : 3000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7268431740081229, loss : 0.00418221578001976, index : 3200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7257056748015294, loss : 0.0002677400188986212, index : 3400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.72462510413774, loss : 5.662454327648447e-07, index : 3600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7233951591686402, loss : 0.0003985777439083904, index : 3800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7235066233441643, loss : 0.002107063075527549, index : 4000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7236074744108547, loss : 0.0016334597021341324, index : 4200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7243524199045667, loss : 0.004041649401187897, index : 4400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7245435774831552, loss : 0.008638917468488216, index : 4600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7252134971880856, loss : 0.00026175944367423654, index : 4800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7251299740051994, loss : 0.0408012755215168, index : 5000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7249327052489914, loss : 0.05478286370635033, index : 5200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7245417515274956, loss : 0.008884905837476254, index : 5400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7244242099625083, loss : 0.0022832138929516077, index : 5600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7243147733149466, loss : 0.09854823350906372, index : 5800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7244625895684061, loss : 0.00021333560289349407, index : 6000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.724520238671183, loss : 6.140786717878655e-05, index : 6200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7246719262615224, loss : 9.164549737761263e-06, index : 6400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7250984699287994, loss : 0.0030507007613778114, index : 6600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7253712689310403, loss : 3.529838431859389e-05, index : 6800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7253428081702622, loss : 1.6391288681916194e-07, index : 7000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7253853631440086, loss : 0.009671922773122787, index : 7200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.725138494798001, loss : 0.0010795060079544783, index : 7400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7255459807920017, loss : 0.004085497930645943, index : 7600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7256281245994111, loss : 5.1173610700061545e-05, index : 7800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7253937007874023, loss : 7.549717702204362e-05, index : 8000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7247744177539331, loss : 0.0006108058150857687, index : 8200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7246607546720635, loss : 0.0009086819482035935, index : 8400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7246250435995821, loss : 0.00021910486975684762, index : 8600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7251022611066934, loss : 0.00026217757840640843, index : 8800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7248639040106662, loss : 0.047659698873758316, index : 9000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.724676665579829, loss : 5.594402682618238e-05, index : 9200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7248032124242105, loss : 0.13183729350566864, index : 9400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7246380585355688, loss : 0.0005890652537345886, index : 9600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7247857361493724, loss : 1.1206175258848816e-05, index : 9800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7243275672432752, loss : 0.0031659684609621763, index : 10000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.724389765709244, loss : 0.021476654335856438, index : 10200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7241851745024511, loss : 1.028184328788484e-06, index : 10400, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7243538345439111, loss : 0.009176448918879032, index : 10600, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7238681603555228, loss : 0.0015251769218593836, index : 10800, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7235251340787203, loss : 0.004629914648830891, index : 11000, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7235849477725209, loss : 4.038279712403892e-06, index : 11200, learning_rate : 1e-05, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.625, loss : 9.32042530621402e-05, index : 0, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7257462686567164, loss : 4.6193684966056026e-07, index : 200, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7206982543640897, loss : 0.0003738325322046876, index : 400, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.725665557404326, loss : 4.52630192739889e-05, index : 600, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7248751560549312, loss : 0.0015061121666803956, index : 800, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7265234765234764, loss : 0.0032424393575638533, index : 1000, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7302248126561203, loss : 0.000195514498045668, index : 1200, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7311741613133471, loss : 3.7252959828038e-07, index : 1400, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7304809494066205, loss : 0.00016710897034499794, index : 1600, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.729594669627984, loss : 0.013410057872533798, index : 1800, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7296351824087952, loss : 2.1601099433610216e-05, index : 2000, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7303498409813715, loss : 1.1936400369449984e-05, index : 2200, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7302686380674706, loss : 0.004084027372300625, index : 2400, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7297673971549388, loss : 0.00036993922549299896, index : 2600, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7305426633345226, loss : 0.0001373896811855957, index : 2800, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7311312895701425, loss : 3.342032141517848e-05, index : 3000, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7307482036863473, loss : 1.2681531188718509e-05, index : 3200, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7320273448985586, loss : 0.02398058772087097, index : 3400, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7325742849208546, loss : 4.693953997048084e-06, index : 3600, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7324717179689549, loss : 1.6540398064535111e-06, index : 3800, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7332541864533861, loss : 2.6822378913493594e-06, index : 4000, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7324149012139961, loss : 0.00026113976491615176, index : 4200, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7323619631901833, loss : 4.604543391906191e-06, index : 4400, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7332101717018035, loss : 0.010221606120467186, index : 4600, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7335450947719215, loss : 0.0004328001232352108, index : 4800, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7338032393521275, loss : 0.0026546400040388107, index : 5000, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7332003460872892, loss : 0.000437181384768337, index : 5200, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.733452138492871, loss : 0.00011163717863382772, index : 5400, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7338421710408839, loss : 0.0002676504373084754, index : 5600, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7333649370798122, loss : 0.00020293965644668788, index : 5800, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7335027495417415, loss : 4.4703490686970326e-08, index : 6000, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7334704079987084, loss : 0.00011089145846199244, index : 6200, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7329518825183551, loss : 7.450602765857184e-07, index : 6400, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.733392667777608, loss : 5.856293682882097e-06, index : 6600, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7332561388031158, loss : 0.024584230035543442, index : 6800, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7334487930295659, loss : 3.710194505401887e-05, index : 7000, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7342383002360771, loss : 0.0, index : 7200, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7343264423726511, loss : 0.006343857850879431, index : 7400, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7341797131956309, loss : 1.0728882671173778e-06, index : 7600, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7345692859889746, loss : 2.3747255909256637e-05, index : 7800, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7345175603049607, loss : 1.847757630457636e-06, index : 8000, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7346055359102538, loss : 9.552312985761091e-05, index : 8200, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.734778597785977, loss : 1.0430817098949774e-07, index : 8400, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7348709452389248, loss : 4.664150310418336e-06, index : 8600, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7351295307351434, loss : 5.4065654694568366e-05, index : 8800, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7348489056771468, loss : 4.4040687498636544e-05, index : 9000, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7348114335398318, loss : 8.195665373023076e-07, index : 9200, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7351478566109979, loss : 6.82491827319609e-06, index : 9400, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7349885428601166, loss : 3.576283802431135e-07, index : 9600, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7348102234465846, loss : 0.02692059613764286, index : 9800, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7347015298470129, loss : 8.791715799816302e-07, index : 10000, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7347563964317197, loss : 4.321344135860272e-07, index : 10200, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7349413517930937, loss : 0.0, index : 10400, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7346948401094201, loss : 6.5119770624733064e-06, index : 10600, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7349319507452977, loss : 0.002778311027213931, index : 10800, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7350809017362028, loss : 8.970820999820717e-06, index : 11000, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7350236586019077, loss : 0.0, index : 11200, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.75, loss : 3.283902333350852e-05, index : 0, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7562189054726368, loss : 0.018672330304980278, index : 200, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7503117206982544, loss : 1.4901162970204496e-08, index : 400, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7545757071547428, loss : 0.000444770441390574, index : 600, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7576466916354561, loss : 0.4610547125339508, index : 800, learning_rate : 4e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.75, loss : 1.4946758710721042e-05, index : 0, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7661691542288555, loss : 2.980232594040899e-08, index : 200, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7546758104738153, loss : 0.0006178963230922818, index : 400, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7562396006655567, loss : 1.1697959052980877e-05, index : 600, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.754993757802746, loss : 0.0006112251430749893, index : 800, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7531218781218777, loss : 0.00010448589455336332, index : 1000, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7506244796003323, loss : 0.00045554546522907913, index : 1200, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7503568879371868, loss : 1.1771973049690132e-06, index : 1400, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7505465334166138, loss : 2.980232594040899e-08, index : 1600, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7495835646862846, loss : 1.117592091759434e-06, index : 1800, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7481884057971008, loss : 6.697631033603102e-05, index : 2000, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7483530213539296, loss : 4.768380676978268e-07, index : 2200, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7484902124114945, loss : 9.983817790271132e-07, index : 2400, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7480296039984613, loss : 9.834805041464278e-07, index : 2600, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7481702963227412, loss : 2.8461543024604907e-06, index : 2800, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7474591802732417, loss : 0.08108632266521454, index : 3000, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7466416744767255, loss : 8.940700269022273e-08, index : 3200, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7475374889738307, loss : 1.9402817997615784e-05, index : 3400, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7472577061927237, loss : 2.756745288934326e-06, index : 3600, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7461852144172582, loss : 4.829654062632471e-05, index : 3800, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7453449137715566, loss : 9.549330570735037e-05, index : 4000, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7450309450130915, loss : 2.980232594040899e-08, index : 4200, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7442626675755502, loss : 0.02952892705798149, index : 4400, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7431808302542915, loss : 0.0001328473590547219, index : 4600, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7427098521141424, loss : 0.0007117498898878694, index : 4800, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7427514497100577, loss : 0.0003697598585858941, index : 5000, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.742645645068256, loss : 2.4104952899506316e-05, index : 5200, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7426402518052205, loss : 4.768380676978268e-07, index : 5400, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7431039100160683, loss : 2.443814310026937e-06, index : 5600, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7427167729701774, loss : 0.00016440081526525319, index : 5800, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7431469755040825, loss : 0.04082974046468735, index : 6000, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7427027898726011, loss : 0.001001342199742794, index : 6200, learning_rate : 8e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.5, loss : 0.02870701067149639, index : 0, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7481343283582088, loss : 0.05699151009321213, index : 200, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7521820448877803, loss : 2.352369665459264e-05, index : 400, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7472961730449247, loss : 0.0010412068804726005, index : 600, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7504681647940072, loss : 0.00015004040324129164, index : 800, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7493756243756241, loss : 4.0284328861162066e-05, index : 1000, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7478143213988337, loss : 0.00036282543442212045, index : 1200, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7479478943611699, loss : 8.04688625066774e-06, index : 1400, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7485946283572761, loss : 4.4703490686970326e-08, index : 1600, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7486812881732365, loss : 0.00010570881568128243, index : 1800, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7486256871564213, loss : 0.0058573707938194275, index : 2000, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7503975465697406, loss : 3.719138112501241e-05, index : 2200, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7505206164098286, loss : 0.00014488596934825182, index : 2400, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7514417531718559, loss : 0.0008621824672445655, index : 2600, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7508032845412334, loss : 0.00016905617667362094, index : 2800, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7512495834721741, loss : 4.023320059332036e-07, index : 3000, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7514448609809418, loss : 0.0001099667715607211, index : 3200, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7518009408997338, loss : 1.0520662726776209e-05, index : 3400, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7508331019161328, loss : 5.7636076235212386e-05, index : 3600, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7508879242304642, loss : 0.0012499390868470073, index : 3800, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7510309922519357, loss : 3.8147554732859135e-06, index : 4000, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7506546060461782, loss : 0.00020202920131850988, index : 4200, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7509372869802312, loss : 1.3009390386287123e-05, index : 4400, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7506248641599639, loss : 0.00019123124366160482, index : 4600, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7493751301812107, loss : 1.2085425623808987e-05, index : 4800, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7494251149770026, loss : 0.00034054520074278116, index : 5000, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.749615458565658, loss : 1.4901162970204496e-08, index : 5200, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7497454175152736, loss : 3.084578338530264e-06, index : 5400, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+
+accuracy : 0.7495759685770382, loss : 1.0579868785498547e-06, index : 5600, learning_rate : 3e-06, reg : 1e-05, batch_size : 8 
+

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="../static/css/style.css">
+
+    <script>
+        document.getElementsByTagName('body')[0].style.backgroundColor = "black"
+    </script>
+
+    <title>NLG</title>
+</head>
+<body>
+    <img class="face" src="static/img/harryy.jpg" />
+    <h1>
+        Talk with Harry!
+    </h1>
+    <form action="/talk_post" method="POST" enctype="application/x-www-form-urlencoded">
+        <input class="input" type="text" name = "input" id = "input" placeholder="What do you want to say?"> <input class="button" type = "submit" value="확인" onClick="location.href='talk_post.html'">
+    </form>
+    <p class="question">
+        You: {{input}}<br>
+    </p>
+    <p class="response">
+        Harry: {{output}}
+    </p>
+</body>
+<footer align = 'center'>deep daiv. NLG Project Team / 2023.01 ~ 2023.04</footer>
+</html>

@@ -1,0 +1,67 @@
+@font-face {
+    font-family: 'Hahmlet';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2110@1.0/Hahmlet-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content: center;
+    font-family: Hahmlet;
+    background-color: white;
+}
+
+.face{
+    width:500px;
+}
+
+.title{
+    font-size:23px;
+    font-weight:700;
+}
+
+.input{
+    border-radius:4px;
+    border:3px solid rgba(150,150,150,0.3);
+    padding:14px;
+    font-size:17px;
+    margin:5px 0px;
+    height:28px;
+    min-width:300px;
+}
+
+.button{
+    border-radius:4px;
+    border:3px solid rgba(0,0,0,0.7);
+    padding:14px 20px;
+    background-color:#210062;
+    color:white;
+    font-size:17px;
+}
+
+.button:hover{
+    opacity:0.7;
+    cursor:pointer;
+}
+
+.question{
+    width:500px;
+    text-align:center;
+    font-size:20px;
+}
+
+.response{
+    font-size:20px;
+    width:500px;
+    text-align:center;
+    max-width:700px;
+}
+
+footer{
+    position:absolute;
+    bottom:0px;
+    margin-bottom:20px;
+}
