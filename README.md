@@ -1,6 +1,6 @@
 # 🪄 I'm Harry. Do you Want to talk with me?
 <img src="https://cdn.britannica.com/81/152981-050-7891A7CF/Daniel-Radcliffe-Harry-Potter-and-the-Philosophers.jpg" width="500" height="350"/>
-Not just ordinary chatbox! With this, you will feel like **Talking with Real Harry Potter**!
+Not just ordinary chatbot! With this, you will feel like **Talking with Real Harry Potter!**
 
 # 1. What Our Project Is
 ## 1.1 Motivation
