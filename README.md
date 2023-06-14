@@ -25,7 +25,7 @@ Deep Daiv. '23 Winter NLG(Natural Language Generation) Team<br>
 
 ## 1.6 About Us
 Hojin Kim([github](https://github.com/thxxx))- Team Leader<br>
-Sujin Kim([github](https://github.com/sml09181))<br>
+Sujin Kim([github](https://github.com/onchanran))<br>
 Subin Shin([github](https://github.com/2020147508))<br>
 
 # 2. How to Start
